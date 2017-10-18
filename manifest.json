@@ -1,0 +1,35 @@
+{
+
+  "manifest_version": 2,
+  "name": "Cyrillo",
+  "version": "1.0",
+  "description": "Convert latin letters to cyrillic",
+
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  
+  "browser_action": {
+    "default_icon": "icons/icon.png"
+  },
+  
+  "background": {
+	"scripts": ["background.js"]
+	},
+	
+	"content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+       "js": ["/bower_components/jquery-3.2.1.min/index.js"]
+    }
+	],
+
+
+	"permissions": [
+    "activeTab",
+	   "tabs",
+	   "webRequest"
+	]
+  
+
+}
