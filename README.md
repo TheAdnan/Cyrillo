@@ -1,6 +1,4 @@
-# Ｖａｐｏｒｗａｖｉｆｙ　（Ｆｉｒｅｆｏｘ　Ａｄｄ－ｏｎ）
+# Cyrillo _(Firefox Extension)_
 
-Ｔｈｅ　ｍｏｓｔ　ａｅｓｔｈｅｔｉｃ　ａｄｄ－ｏｎ　ｆｏｒ　ｆｉｒｅｆｏｘ　ｔｈｅｒｅ　ｉｓ．
+_Convert latin to cyrillic letters on any website_
 <br>
-<br>
-The Add-on is approved and can be found on here: [Vaporwavify](https://addons.mozilla.org/en-US/firefox/addon/vaporwavify/)
