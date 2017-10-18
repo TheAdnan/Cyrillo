@@ -3,19 +3,14 @@
 ![logo1](https://github.com/TheAdnan/Cyrillo/blob/master/icons/icon.png?raw=true) _Convert latin to cyrillic letters on any website_ ![logo2](https://github.com/TheAdnan/Cyrillo/blob/master/icons/icon.png?raw=true)
 <br>
 
-This WebExtension can be downloaded here: [addons.mozilla.org/en-US/firefox/addon/cyrillo/](https://addons.mozilla.org/en-US/firefox/addon/cyrillo/).
 
-## To Build the Extension for Chrome
-
-Visit [chrome://extensions](chrome://extensions).
-![... menu, more tools, extensions](https://i.imgur.com/5cGL2Mo.png)
-
-Click "Load Unpacked Extension" and select the Cyrillo folder.
-This will compile and enable the extension in your browser. Test it out. If is well, it's time to pack the extension.
-![extension page header](https://i.imgur.com/6SBTwqr.png)
+![demo](cyrill.gif)
 
 
-Go back to the extensions page and click "Pack Extension". Select the Cyrillo Folder as the "Extension Root Directory"
-*You do not need to select a Private Key if this is the first time you have built the extension. A .pem key will be generated automatically. Save this key in case you need to rebuild the extension later. If you have packed this extension before, you should select your previously generated .pem key.*
+## Installation
+1. Download the Web Extension for Mozilla Firefox [here](https://addons.mozilla.org/en-US/firefox/addon/cyrillo/).
+2. When the extension will finish installing, you will be able to see the Cyrillo icon on your toolbar.
+3. Go to any website and click on the icon. The latin letters on the website will be automatically converted to cyrillic letters.
 
-You should now find files named **Cyrillo.crx** and **Cyrillo.pem** in the same directory as your Cyrillo folder. Drag the .crx file into any chrome browser to enable the extension.
+## License
+This repository is under the [Mozilla Public License](https://github.com/nagam11/Cyrillo/blob/master/LICENSE).
