@@ -1,6 +1,9 @@
 # Cyrillo _(Firefox Extension)_
 
-![logo1](https://github.com/TheAdnan/Cyrillo/blob/master/icons/icon.png?raw=true) _Convert latin to cyrillic letters on any website_ ![logo2](https://github.com/TheAdnan/Cyrillo/blob/master/icons/icon.png?raw=true)
+![logo1](https://github.com/TheAdnan/Cyrillo/blob/master/icons/icon.png?raw=true) _Convert latin to cyrillic letters on any website_ 
+<a href="https://addons.mozilla.org/en-US/firefox/addon/cyrillo/" target="_blank">
+    <img src="https://img.shields.io/badge/Firefox-Addon-orange.svg" alt="Download">
+</a>
 <br>
 
 
